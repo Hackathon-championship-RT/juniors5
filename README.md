@@ -2,6 +2,8 @@
 
 https://dropmefiles.com/3oPb7
 
+https://rutube.ru/video/private/0275f5fca95f2e9b7db4c9937e4739fd/?p=kFyI4H--eWbWYzIjoyHjJw
+
 Подключите свой агент ngrok к учётной записи ngrok. Если ещё не сделали, зарегистрируйтесь на сайте https://ngrok.com и скачайте приложение с официального сайта для Windows: https://download.ngrok.com/windows.
 
 Скопируйте ваш аутентификационный токен ngrok.
